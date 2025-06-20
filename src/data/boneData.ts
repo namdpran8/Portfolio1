@@ -1,8 +1,8 @@
 export const typingBoneNames = [
   "thighL",
   "thighR",
-  // "footL",
-  // "footR",
+   "footL",
+   "footR",
   "shinL",
   "shinR",
   "forearmL",
